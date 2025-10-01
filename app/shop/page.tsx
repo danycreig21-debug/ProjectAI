@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Navigation from '@/components/Navigation';
-import { ShoppingBag, Download, FileText, Code2, BookOpen, Zap } from 'lucide-react';
+import { ShoppingBag, Download, FileText, Code as Code2, BookOpen, Zap } from 'lucide-react';
 
 const products = [
   {

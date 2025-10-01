@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import Navigation from '@/components/Navigation';
-import { Mail, Send, CheckCircle } from 'lucide-react';
+import { Mail, Send, CircleCheck as CheckCircle } from 'lucide-react';
 import MobileStickyAd from '@/components/ads/MobileStickyAd';
 
 export default function ContactPage() {

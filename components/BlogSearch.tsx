@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Loader2 } from 'lucide-react';
+import { Search, Loader as Loader2 } from 'lucide-react';
 import PostCard from './PostCard';
 import InContentAd from './ads/InContentAd';
 
